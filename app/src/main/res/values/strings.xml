@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NeocatHelper</string>
+    <string name="text1">Let\'s Prey!</string>
+    <string name="button_text">Click me</string>
+    <string name="login_button_text">Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="work_in_progress">Work in progress...</string>
+    <string name="invia">Invia</string>
+    <string name="prima_lettura">Prima Lettura</string>
+    <string name="seconda_lettura">Seconda Lettura</string>
+    <string name="terza_lettura">Terza Lettura</string>
+    <string name="info_preparazione">\nLa preparazione non deve durare più di 2 ore e mezza.\n\n
+        Scelta di quattro letture (non scegliere "Salmi"):\n
+        \t 1. Antico Testamento (Pentateuco - Libri Storici)\n
+        \t 2. Antico Testamento (Libri Sapienzali - Libri Profetici)\n
+        \t 3. Nuovo Testamento (Lettere Apostoliche - Atti- Apocalisse)\n
+        \t 4. Nuovo Testamento (Vangeli)</string>
+</resources>
